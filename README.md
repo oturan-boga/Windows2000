@@ -1,2 +1,2 @@
-# Windows2000
-Windows 2000 source codes.
+# Windows 2000
+Windows 2000 Professional source codes.
